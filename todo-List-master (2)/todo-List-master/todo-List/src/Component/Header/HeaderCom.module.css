@@ -1,0 +1,19 @@
+.header {
+  position: relative;
+}
+
+.header input {
+  background-color: var(--gray);
+  border: none;
+  padding-left: 3rem;
+}
+
+.header input:focus {
+  border: none;
+}
+
+.header svg {
+  position: absolute;
+  left: 5px;
+  top: 13px;
+}
